@@ -1,0 +1,7 @@
+.product-row {
+  background-color: antiquewhite;
+}
+
+.selected.product-row {
+  background-color: aquamarine;
+}
